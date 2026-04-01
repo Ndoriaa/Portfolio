@@ -86,7 +86,7 @@ $projects = [
             <?php echo $name; ?>.
         </h1>
         <p class="text-xl text-slate-400 max-w-xl leading-relaxed mb-10">
-            I bridge the gap between complex backend logic and premium digital experiences. Currently finalizing my BBIT at KCA University.
+            I bridge the gap between complex backend logic and premium digital experiences. Currently finalizing my Bsc. Software Development at KCA University.
         </p>
         <div class="flex gap-6">
             <a href="#projects" class="bg-teal-500 text-slate-900 px-10 py-4 rounded-lg font-bold hover:bg-teal-400 transition">View My Work</a>
